@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Movie-List-firebase/static/css/main.6b509eb6.css",
+    "main.js": "/Movie-List-firebase/static/js/main.b53f9724.js",
+    "index.html": "/Movie-List-firebase/index.html",
+    "main.6b509eb6.css.map": "/Movie-List-firebase/static/css/main.6b509eb6.css.map",
+    "main.b53f9724.js.map": "/Movie-List-firebase/static/js/main.b53f9724.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b509eb6.css",
+    "static/js/main.b53f9724.js"
+  ]
+}
